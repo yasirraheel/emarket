@@ -21,4 +21,5 @@ core/bootstrap/cache/*.php
 installer/database.sql
 
 # Runtime public storage link
-/storage/
+/storage
+/core/public/storage
