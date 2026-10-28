@@ -19,3 +19,6 @@ core/bootstrap/cache/*.php
 
 # Local database dump may contain environment-specific credentials
 installer/database.sql
+
+# Runtime public storage link
+storage
